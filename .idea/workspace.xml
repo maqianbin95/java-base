@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d6481be-2220-4a7d-8e2b-199512ef545d" name="Default" comment="concurrent2">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/concurrent/BlockQueue.java" afterPath="$PROJECT_DIR$/concurrent/BlockQueue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/concurrent/ConditionTest.java" afterPath="$PROJECT_DIR$/concurrent/ConditionTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/concurrent/LockAndSync.java" afterPath="$PROJECT_DIR$/concurrent/LockAndSync.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/concurrent/MyExecutor.java" afterPath="$PROJECT_DIR$/concurrent/MyExecutor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/concurrent/MyNewFixedThreadPool.java" afterPath="$PROJECT_DIR$/concurrent/MyNewFixedThreadPool.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/concurrent/ProConsumer.java" afterPath="$PROJECT_DIR$/concurrent/ProConsumer.java" />
-    </list>
+    <list default="true" id="0d6481be-2220-4a7d-8e2b-199512ef545d" name="Default" comment="concurrent2" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -365,12 +358,12 @@
       <workItem from="1560581401602" duration="8708000" />
       <workItem from="1560594411190" duration="5402000" />
       <workItem from="1560600818278" duration="64000" />
-      <workItem from="1560601047656" duration="2150000" />
+      <workItem from="1560601047656" duration="2156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16324000" />
+    <option name="totallyTimeSpent" value="16330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
